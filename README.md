@@ -10,5 +10,5 @@
  
  ## 🧱 Tecnologias
 
-**Cliente:** [HTML](https://www.w3schools.com/html),  [CSS](https://www.w3schools.com/css),  [JS](https://www.w3schools.com/js)<br> 
+**Cliente:** [HTML](https://www.w3schools.com/html),  [CSS](https://www.w3schools.com/css)<br> 
 **Controle de Versão:** [Git](https://git-scm.com/)
